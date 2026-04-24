@@ -4,7 +4,7 @@
 
 **Java Developer · Android Engineer · Backend Builder**
 
-*Chennai, India — Graduating May 2026*
+*Chennai, India*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manohar-samvel-t-58629925a)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoharsamuelt@gmail.com)
